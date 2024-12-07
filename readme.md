@@ -1,49 +1,34 @@
-# AcreetionOS Linux
+# Acreetion OS Documentation Plan
 
-Welcome to AcreetionOS Linux, an open-source project aimed at providing the user a stable and up-to-date experience.
+## Table of Contents
+- [Acreetion OS Documentation Plan](#acreetion-os-documentation-plan)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
 
-## Project Overview
+## Introduction
+Welcome to the AcreetionOS Documentation Plan. This repository is intended for gathering and styling standard boilerplate documentation for the project. It includes readme templates, guidelines, contributor guidelines, issue templates, and similar documents.
 
-AcreetionOS Linux is a community-driven effort to build a lightweight, versatile Linux distribution. AcreetionOS Linux is currently based on Arch Linux, but the future goal is to be a parallel* distribution with our own base. Our goal is to provide a solid foundation for both everyday users and developers, with a focus on simplicity, ease of use, and stability; all while keeping packages up to date.
+Leaving each repository owner to create ad hoc solutions for repo management can be confusing for new users. A streamlined and organized system should be easy and fast to put together. The goal is to have the simplest system that still accomplishes the goals, allowing us to focus on coding rather than writing readmes.
 
 ## Features
+Use the Zulip Documentation Channel for deeper discussions. Use issues on this repository to suggest edits, and pull requests are always welcome. There are too many existing repositories for one person to fix everything, so the repo owner should handle the details of their repo.
 
-- Lightweight base system
-- Standardized Package Selection
-- User-friendly installation process
-- x86_64 friendly.
+## Installation
+The easiest way to install local versions of the templates is to manage GitHub gists and use GistPad. This allows you to easily generate the simplest and most common docs, keeping you in the IDE without needing to search for templates in the repositories.
 
-## Getting Started
+![picture of GistPad extension](image.png)
+![GitHub Gists](image-1.png)
 
-To get started with AcreetionOS Linux, you can:
-
-1. Download the latest ISO from our [Website]("AcreetionOSWebsite link")!
-2. Create a bootable USB drive using tools like [Etcher]("https://etcher.balena.io/#download-etcher"), [Rufus]("https://rufus.ie/en/"), or [Ventoy]("https://ventoy.net/en/index.html").
-3. Boot from the USB drive and follow the installation instructions
-
-*     Ventoy MUST use GRUB MODE*
 ## Contributing
+Boilerplate and templates should be created via issues and discussed in the issue itself. Policy and broader discussions should happen in Zulip.
 
-We welcome contributions from the community! Please see our [Contributing Guide]("https://github.com/AcreetionOS/AcreetionOSDocumentationPlan/blob/main/documentation/contributor-guide.md") file for guidelines on how to get involved.
-
-## Roadmap
-
-Our current goal is to release a stable distribution by the end of 2026. Check out our [project road map]("https://darrengames.ddns.net:30008/cobra3282000/AcreetionOS/projects/2") for more details on upcoming features and milestones.
-
-## Project Information
-
-- **Project Status:** In active development
-- **License:** GPL-3.0
-- **Maintainers:** Darren Clift (@cobra3282000), Johnathan Spiva (@sprunglesongithub) or (@Sprungles)
-
+## License
+Only open-source industry-standard templates and documentation standards are accepted. No commercial templates.
 
 ## Contact
-
-For questions, suggestions, or support open an issue on [Gitea]("https://darrengames.ddns.net:30008/") or [Github]("https://github.com/AcreetionOS"). 
-
-Thank you for your interest in AcreetionOS Linux!
-
-
-## Definitions:
-
-*Parallel Distribution: A distribution similar to, but having a different goal and future goal set.
+Look in the Zulip Documentation Channel for conversations and topics.
